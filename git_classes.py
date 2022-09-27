@@ -31,8 +31,8 @@ class Electric_car(Car):
         return "This car has a rear motor"
 
 
-# car3 = Electric_car('Tesla', 'Model 3', 2021, '271 hp')
-# print(car3.make)
-# print(car3.battery)
-# print(car3.sedan())
-# print(car3.rear_motor())
+car3 = Electric_car('Tesla', 'Model 3', 2021, '271 hp')
+print(car3.make)
+print(car3.battery)
+print(car3.sedan())
+print(car3.rear_motor())
