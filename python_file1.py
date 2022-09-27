@@ -1,10 +1,11 @@
-a = "Hello world"
-print(a)
+# a = "Hello world"
+# print(a)
+#
+#
+# b = "QA"
+# print(a + " " + b)
 
 
-b = "QA"
-print(a + " " + b)
+# for i in range(7):
+#     print(i)
 
-
-for i in range(7):
-    print(i)
