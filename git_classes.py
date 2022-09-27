@@ -30,9 +30,13 @@ class Electric_car(Car):
     def rear_motor(self):
         return "This car has a rear motor"
 
+    def red_color(self):
+        return "Red color."
 
 car3 = Electric_car('Tesla', 'Model 3', 2021, '271 hp')
 print(car3.make)
 print(car3.battery)
 print(car3.sedan())
 print(car3.rear_motor())
+print(car3.red_color())
+
