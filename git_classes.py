@@ -5,7 +5,7 @@ class Car:
         self.year = year
 
     def sedan(self):
-        return "This car is sedan."
+        return "This car is a sedan."
 
     def sport_car(self):
         return "This is a sport car."
